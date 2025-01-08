@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/web/borrowed-books.jsp</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/src/java/db/JDBC.java</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/web/penalties.jsp</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/src/java/controllers/bookController.java</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/web/borrow-books.jsp</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/src/java/controllers/loginController.java</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/web/view-books.jsp</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/src/java/controllers/payPenaltyController.java</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/src/java/exceptions/BookNotAvailableException.java</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/web/admin.html</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/web/member.html</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/src/java/controllers/loanController.java</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/web/view-users.jsp</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/src/java/controllers/registerController.java</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/web/index.jsp</file>
+            <file>file:/C:/Users/mercy/OneDrive/Dokumen/NetBeansProjects/perpustakaanwebapp/src/java/controllers/userController.java</file>
+        </group>
+    </open-files>
+</project-private>
